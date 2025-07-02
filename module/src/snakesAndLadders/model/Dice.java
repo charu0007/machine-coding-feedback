@@ -1,4 +1,4 @@
-package model;
+package snakesAndLadders.model;
 
 public class Dice {
     public int roll(){

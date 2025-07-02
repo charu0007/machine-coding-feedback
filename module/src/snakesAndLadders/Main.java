@@ -1,5 +1,7 @@
-import game.Game;
-import model.Player;
+package snakesAndLadders;
+
+import snakesAndLadders.game.Game;
+import snakesAndLadders.model.Player;
 
 import java.util.*;
 

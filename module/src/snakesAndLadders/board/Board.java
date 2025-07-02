@@ -1,4 +1,4 @@
-package board;
+package snakesAndLadders.board;
 
 import java.util.Map;
 

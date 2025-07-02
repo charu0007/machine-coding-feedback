@@ -1,8 +1,8 @@
-package game;
+package snakesAndLadders.game;
 
-import board.Board;
-import model.Dice;
-import model.Player;
+import snakesAndLadders.board.Board;
+import snakesAndLadders.model.Dice;
+import snakesAndLadders.model.Player;
 
 import java.util.LinkedList;
 import java.util.List;
